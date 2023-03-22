@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class optimizacion {
     static Scanner sc = new Scanner(System.in);
+    
+    // Esto es un comentario
 
     public static void main(String[] args) {
     	
